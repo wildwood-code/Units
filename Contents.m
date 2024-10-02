@@ -46,3 +46,5 @@
 %  Compound units may also be squared or square-rooted:
 %     kg*meter/(second^2)  => 'Mass*Length/(Time^2)'
 %     Volt/(Hz^0.5)        => 'Voltage/(Frequency^0.5)'
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net
